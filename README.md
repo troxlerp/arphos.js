@@ -1,4 +1,4 @@
-# ARPHOS.js
+# ARPHOS.js [Demo](http://www.troxlerpascal.github.io)
 A one-Page scroll lock plugin.
 
 - All contents on one page & navigate like on multiple
@@ -7,6 +7,6 @@ A one-Page scroll lock plugin.
 - No page-back-button complications
 - extremely lightweight, based on jQuery
 
-[ARPHOS.js Webpage](http://www.troxlerpascal.github.io)
+
 
 
