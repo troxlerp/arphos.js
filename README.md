@@ -1,5 +1,5 @@
 # ARPHOS.js 
- [Demo](http://troxlerpascal.github.io)
+ [Demo](http://troxlerp.github.io)
 
 A one-Page scroll lock plugin.
 
